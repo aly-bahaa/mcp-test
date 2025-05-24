@@ -13,6 +13,10 @@ export class DummyProvider3 {}
 export class DummyProvider4 {}
 @Injectable()
 export class DummyProvider5 {}
+@Injectable()
+export class DummyProvider6 {}
+@Injectable()
+export class DummyProvider7 {}
 
 @Module({
   imports: [],
@@ -24,6 +28,8 @@ export class DummyProvider5 {}
     DummyProvider3,
     DummyProvider4,
     DummyProvider5,
+    DummyProvider6,
+    DummyProvider7,
   ],
 })
 export class AppModule {}

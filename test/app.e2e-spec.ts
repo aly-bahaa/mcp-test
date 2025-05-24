@@ -38,4 +38,19 @@ describe('AppController (e2e)', () => {
   it('dummy test 5', () => {
     expect(true).toBe(true);
   });
+  it('dummy test 6', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 7', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 8', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 9', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 10', () => {
+    expect(true).toBe(true);
+  });
 });
