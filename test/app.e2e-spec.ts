@@ -22,4 +22,20 @@ describe('AppController (e2e)', () => {
       .expect(200)
       .expect('Hello World!');
   });
+
+  it('dummy test 1', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 2', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 3', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 4', () => {
+    expect(true).toBe(true);
+  });
+  it('dummy test 5', () => {
+    expect(true).toBe(true);
+  });
 });
